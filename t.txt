@@ -1,9 +1,0 @@
-Makefile
-README.txt
-shell
-shell.c
-shell.o
-t.txt
-utils.c
-utils.h
-utils.o
